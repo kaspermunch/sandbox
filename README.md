@@ -21,6 +21,10 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+```python
+print('hello world')
+```
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
