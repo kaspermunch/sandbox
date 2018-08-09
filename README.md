@@ -29,7 +29,7 @@ Syntax highlighted code block
 # Code
 
 ```python
-print('hello world')
+print("They are not so strange that your head will explode")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
